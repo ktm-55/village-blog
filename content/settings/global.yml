@@ -58,10 +58,10 @@ siteDesign:
   baseGrayLight: "#4E4E4E"
   rounded: 8px
 secretConfig:
-  algoliaAppId: XIKSJSCPJ3
-  algoliaSearchApiKey: a0eb781d9e8354258d74c311a05f0cc1
+  algoliaAppId: D3XOAL1NR7
+  algoliaSearchApiKey: b09da5b06b2aaa61a8602778ac0b6d07
   algoliaIndexName: gatsby-all-pack-theme-starter
-  googleAdsnseClientId: ca-pub-1075201051914394
+  googleAdsnseClientId: 
   googleAdsnseClientSlot: ""
   googleAnalyticsId: UA-157574909-4
-  googleAnalyticsViewId: "225476419"
+  googleAnalyticsViewId: "2236432857"
